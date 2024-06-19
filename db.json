@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "pprice": "5",
+      "pname": "Pen",
+      "pqty": "10",
+      "id": 3
+    },
+    {
+      "pprice": "180",
+      "pname": "chilli",
+      "pqty": "5",
+      "id": 4
+    },
+    {
+      "pprice": "5000",
+      "pname": "rice",
+      "pqty": "20",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
